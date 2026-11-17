@@ -21,6 +21,8 @@ Hi, I'm Taha Waheed
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-khan-970a743bb)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tahak5815@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/TahasCODE/TahasCODE/blob/main/Resume_Taha_Waheed.pdf)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/TahaKhan_1612/)
 
 ## 💻 Tech Stack:
 
