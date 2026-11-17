@@ -84,7 +84,7 @@ Hi, I'm Taha Waheed
 ## 🚀 Featured Projects:
 
 - **[MiniRedis](LINK)**: Redis-compatible in-memory data store in plain Java
-- **[Diagram Studio](LINK)**: full-stack app (Spring Boot, PostgreSQL, React, TypeScript, Docker), [live demo](LINK)
+- **Diagram Studio**: full-stack interactive diagram editor (Spring Boot, PostgreSQL, React, TypeScript, Docker, Playwright) · [Live Demo](https://diagram-studio-demo.onrender.com/?walkthrough=cache-outage) · [Demo Video](https://diagram-studio-demo.onrender.com/demo.html)
 - **[Spring Boot REST API](LINK)**: PostgreSQL, Docker, deployed on Render
 - **[E-Commerce Backend](LINK)**: JWT auth, RBAC, transactional checkout, Swagger
 - **[Order Management API](https://github.com/TahasCODE/spring-crud-api)**: JPA inheritance, MySQL
