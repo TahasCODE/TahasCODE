@@ -1,13 +1,22 @@
-## Hi there 👋
+
+
 Hi, I'm Taha Waheed
 
-👋 Backend developer who likes understanding how things work under the hood.
-🚀 I build REST APIs with Java and Spring Boot: secure, tested, containerized and deployed.
-🛠️ I built MiniRedis, a Redis-compatible data store in plain Java, to learn caching internals.
-🎓 BS Computer Science (UAF, 2026), currently interning as a backend developer at soco Engineers, Lahore.
-📚 Learning system design, DSA patterns, SQL and DevOps fundamentals.
-✨ Open to Java backend and graduate software engineer roles. Let's talk.
+👋 Backend developer who likes understanding how things work under the hood. I'm not satisfied with making something work; I want to know why it works, and what happens when it doesn't.
 
+🚀 I build REST APIs with Java and Spring Boot: secure (Spring Security, JWT, role-based access), tested (JUnit, Mockito, TDD), containerized with Docker and deployed live. I care about clean layering, DTOs, validation and proper exception handling, not just working endpoints.
+
+🛠️ I built MiniRedis, a Redis-compatible in-memory data store in plain Java, to learn caching internals from the inside. I also built Diagram Studio, a full-stack app with Spring Boot, PostgreSQL, React and TypeScript, with a live demo you can try.
+
+💼 Currently a backend developer intern at soco Engineers in Lahore, working on real Java services. Before that, I completed a backend internship at IT Empire in Faisalabad, using Java 17, Spring Boot 3 and Django.
+
+🎓 BS Computer Science, University of Agriculture Faisalabad (2026). My final year project, E-Cycle, was an e-waste management platform with AI-based classification, built with React, Node.js and MongoDB.
+
+📚 Right now I'm going deeper into system design (caching, scaling, CDNs), DSA patterns through a 90-day documented challenge, SQL, and DevOps fundamentals.
+
+🧪 I hold a certification in Test-Driven Development with Spring Boot, JUnit and Mockito, and I write tests alongside my code.
+
+✨ Open to Java backend and graduate software engineer roles. If you're hiring, or just want to talk backend, let's connect.
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-khan-970a743bb)
